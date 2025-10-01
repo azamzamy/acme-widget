@@ -1,6 +1,13 @@
 # Acme Widget Co - Sales System
 
-A proof of concept for Acme Widget Co's new sales system, built using **Test-Driven Development (TDD)** in Ruby. This system demonstrates clean architecture, dependency injection, and extensible design patterns.
+A proof of concept for Acme Widget Co's new sales system, built using **Test-Driven Development (TDD)** in Ruby. This system demonstrates clean architecture, dependency injection,## Development Approach
+
+This project was built using **Test-Driven Development (TDD)**:
+
+1. **RED** - Write failing tests first
+2. **GREEN** - Implement minimal code to pass tests
+3. **REFACTOR** - Clean up code while keeping tests green
+
 
 ## Products
 
@@ -217,3 +224,14 @@ This project was built using **Test-Driven Development**:
 1. **RED** - Write failing tests first
 2. **GREEN** - Implement minimal code to pass tests
 3. **REFACTOR** - Clean up code while keeping tests green
+
+## AI Usage
+
+This project utilized AI assistance (GitHub Copilot) in the following areas:
+
+- **Test Case Generation**: AI was used to generate comprehensive test cases covering edge cases, boundary conditions, and integration scenarios
+- **Demo Script**: The `demo.rb` file was created with AI assistance to showcase all requirement examples
+- **Documentation**: Parts of this README, including code examples, architecture explanations, and usage instructions were generated with AI support
+
+The core business logic, design decisions, and overall architecture was developed by me.
+
